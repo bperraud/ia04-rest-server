@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0"
+            prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="fx.application.ConnexionToJadeController">
+    <center>
+        <VBox prefHeight="200.0" prefWidth="100.0" BorderPane.alignment="CENTER">
+            <children>
+                <HBox prefHeight="100.0" prefWidth="200.0">
+                    <children>
+                        <Label text="Contenu : "/>
+                        <Separator prefHeight="14.0" prefWidth="33.0"/>
+                        <TextField fx:id="content"/>
+                        <Separator prefHeight="4.0" prefWidth="66.0"/>
+                        <Button fx:id="contact" mnemonicParsing="false" text="Contact agent"/>
+                    </children>
+                </HBox>
+                <HBox prefHeight="24.0" prefWidth="600.0">
+                    <children>
+                        <Label text="Réponse de l'agent Admin : "/>
+                    </children>
+                </HBox>
+                <TextArea fx:id="agentAnswers" prefHeight="257.0" prefWidth="600.0"/>
+            </children>
+        </VBox>
+    </center>
+</BorderPane>
