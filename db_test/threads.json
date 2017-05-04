@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "titre": "Le Trio de choc",
+  "creation": 1493910799,
+  "tags": ["betises", "règlementlol"],
+  "participants": [1,2,3],
+  "muteby" : [],
+  "sharedfiles" : [1,2],
+  "children": [],
+  "father": null
+},
+{
+  "id": 2,
+  "titre": "",
+  "creation": 1493910799,
+  "tags": [],
+  "participants": [1,2],
+  "muteby" : [],
+  "sharedfiles" : [3],
+  "children": [],
+  "father": null
+},
+{
+  "id": 3,
+  "titre": "",
+  "creation": 1493910799,
+  "tags": [],
+  "participants": [1,3],
+  "muteby" : [],
+  "sharedfiles" : [4,5],
+  "children": [],
+  "father": null
+}
