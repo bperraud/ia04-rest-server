@@ -1,48 +1,48 @@
-{
-  "id": 1,
-  "surname": "Harry",
-  "name": "Potter",
-  "gender": "M",
-  "mail": "h.potter@yahoo.fr",
-  "contacts": [2,3],
-  "pp": "hp.png",
-  "lastco": 1493910799,
-  "conversations": [1,2,3],
-  "settings": {},
-  "links": {
-    "Facebook": "https://www.facebook.com/harrypotterfilms/?fref=ts",
-    "Twitter": "https://twitter.com/HarryPotterFilm"
-  }
-},
-{
+[
+  {
+    "id": 1,
+    "surname": "Harry",
+    "name": "Potter",
+    "gender": "M",
+    "mail": "h.potter@yahoo.fr",
+    "contacts": [2, 3],
+    "pp": "hp.png",
+    "lastco": 1493910799,
+    "conversations": [1, 2, 3],
+    "settings": {},
+    "links": {
+      "Facebook": "https://www.facebook.com/harrypotterfilms/?fref=ts",
+      "Twitter": "https://twitter.com/HarryPotterFilm"
+    }
+  }, {
   "id": 2,
   "surname": "Ronald",
   "name": "Weasley",
   "gender": "M",
   "mail": "ronron@hotmail.fr",
-  "contacts": [1,3],
+  "contacts": [1, 3],
   "pp": "rw.png",
   "lastco": 1493910799,
-  "conversations": [1,2],
+  "conversations": [1, 2],
   "settings": {},
   "links": {
     "Facebook": "https://www.facebook.com/pages/Ron-Weasley/107694199259953?fref=ts&rf=109574965726854",
     "Twitter": "https://twitter.com/ronweasley"
   }
-},
-{
+}, {
   "id": 3,
   "surname": "Hermione",
   "name": "Granger",
   "gender": "F",
   "mail": "hermione.granger@gmail.com",
-  "contacts": [1,2],
+  "contacts": [1, 2],
   "pp": "hg.png",
   "lastco": 1493910799,
-  "conversations": [1,3],
+  "conversations": [1, 3],
   "settings": {},
   "links": {
     "Facebook": "https://www.facebook.com/HermioneJeanGranger98/?fref=ts",
     "Twitter": "https://twitter.com/HermioneGranger"
   }
 }
+]

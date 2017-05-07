@@ -1,190 +1,218 @@
-{
-  "id": 1,
-  "author": 2,
-  "date": 1493910799,
-  "content": "Regardez ce que j'ai fait pendant le cours d'histoire de la magie ! ^^",
-  "father": 1,
-  "children": []
-}, {
-  "id": 2,
-  "author": 3,
-  "date": 1493910800,
-  "content": "C'est puéril --'",
-  "father": 1,
-  "children": []
-}, {
-  "id": 1,
-  "author": 1,
-  "date": 1493910801,
-  "content": "Haha ROFL !!",
-  "father": 1,
-  "children": []
-}, {
-  "id": 4,
-  "author": 1,
-  "date": 1493910802,
-  "content": "Parfois, vous me désespérez les garçons ...",
-  "father": 1,
-  "children": []
-}, {
-  "id": 5,
-  "author": 2,
-  "date": 1493910803,
-  "content": "Oh ça va !",
-  "father": 1,
-  "children": []
-}, {
-  "id": 6,
-  "author": 1,
-  "date": 1493910804,
-  "content": "Même toi tu trouves que l'histoire de la magie c'est chiant !",
-  "father": 1,
-  "children": []
-}, {
-  "id": 7,
-  "author": 3,
-  "date": 1493910805,
-  "content": "Je ne l'ai dit qu'une fois ...",
-  "father": 1,
-  "children": []
-}, {
-  "id": 8,
-  "author": 2,
-  "date": 1493910806,
-  "content": "Mais nous on n'oublie jamais :D",
-  "father": 1,
-  "children": []
-}, {
-  "id": 9,
-  "author": 2,
-  "date": 1493910800,
-  "content": "Hey Harry ! Pourquoi tu n'avais pas ton Eclair de Feu aujourd'hui ?",
-  "father": 2,
-  "children": []
-}, {
-  "id": 10,
-  "author": 1,
-  "date": 1493910801,
-  "content": "Malefoy m'a jeté un Petrificus Totalus et me l'a volé :(",
-  "father": 2,
-  "children": []
-}, {
-  "id": 11,
-  "author": 2,
-  "date": 1493910802,
-  "content": "OMG mais c'est terrible !!",
-  "father": 2,
-  "children": []
-}, {
-  "id": 12,
-  "author": 1,
-  "date": 1493910803,
-  "content": "Oh tkt Cho est venu me réconforter ;)",
-  "father": 2,
-  "children": []
-}, {
-  "id": 13,
-  "author": 2,
-  "date": 1493910804,
-  "content": "Passe moi les détails ...",
-  "father": 2,
-  "children": []
-}, {
-  "id": 14,
-  "author": 1,
-  "date": 1493910805,
-  "content": "On s'est embrassés :D",
-  "father": 2,
-  "children": []
-}, {
-  "id": 15,
-  "author": 2,
-  "date": 1493910806,
-  "content": "PASSE MOI LES DETAILS !",
-  "father": 2,
-  "children": []
-}, {
-  "id": 16,
-  "author": 2,
-  "date": 1493910807,
-  "content": "^^",
-  "father": 2,
-  "children": []
-}, {
-  "id": 17,
-  "author": 1,
-  "date": 1493910800,
-  "content": "Tu en es où dans le devoir de Rogue sur les Loups Garous en DCLFDM ?",
-  "father": 3,
-  "children": []
-}, {
-  "id": 18,
-  "author": 1,
-  "date": 1493910801,
-  "content": "Euh ...",
-  "father": 3,
-  "children": []
-}, {
-  "id": 19,
-  "author": 1,
-  "date": 1493910802,
-  "content": "J'avais Quidditch ...",
-  "father": 3,
-  "children": []
-}, {
-  "id": 19,
-  "author": 1,
-  "date": 1493910803,
-  "content": "Toi ?",
-  "father": 3,
-  "children": []
-}, {
-  "id": 20,
-  "author": 3,
-  "date": 1493910804,
-  "content": "J'ai cassé ma plume à mon 16e parchemin. J'irai en racheter une demain.",
-  "father": 3,
-  "children": []
-}, {
-  "id": 21,
-  "author": 1,
-  "date": 1493910805,
-  "content": "16 ???",
-  "father": 3,
-  "children": []
-}, {
-  "id": 22,
-  "author": 3,
-  "date": 1493910806,
-  "content": "Ne me dis pas que tu n'as pas commencé ?!",
-  "father": 3,
-  "children": []
-}, {
-  "id": 23,
-  "author": 1,
-  "date": 1493910807,
-  "content": "Tu pourras m'aider ?",
-  "father": 3,
-  "children": []
-}, {
-  "id": 24,
-  "author": 1,
-  "date": 1493910808,
-  "content": "STP :D",
-  "father": 3,
-  "children": []
-}, {
-  "id": 25,
-  "author": 3,
-  "date": 1493910809,
-  "content": "Si \"t'aider\" veut dire \"l'écrire à ta place\" c'est non.",
-  "father": 3,
-  "children": []
-}, {
-  "id": 26,
-  "author": 1,
-  "date": 1493910810,
-  "content": "Bien, je suppose que je vais devoir apprendre à vivre sans dormir...",
-  "father": 3,
-  "children": []
-}
+[
+  {
+    "id": 1,
+    "author": 2,
+    "date": 1493910799,
+    "content": "Regardez ce que j'ai fait pendant le cours d'histoire de la magie ! ^^",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 2,
+    "author": 3,
+    "date": 1493910800,
+    "content": "C'est puéril --'",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 1,
+    "author": 1,
+    "date": 1493910801,
+    "content": "Haha ROFL !!",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 4,
+    "author": 1,
+    "date": 1493910802,
+    "content": "Parfois, vous me désespérez les garçons ...",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 5,
+    "author": 2,
+    "date": 1493910803,
+    "content": "Oh ça va !",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 6,
+    "author": 1,
+    "date": 1493910804,
+    "content": "Même toi tu trouves que l'histoire de la magie c'est chiant !",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 7,
+    "author": 3,
+    "date": 1493910805,
+    "content": "Je ne l'ai dit qu'une fois ...",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 8,
+    "author": 2,
+    "date": 1493910806,
+    "content": "Mais nous on n'oublie jamais :D",
+    "father": 1,
+    "children": []
+  },
+  {
+    "id": 9,
+    "author": 2,
+    "date": 1493910800,
+    "content": "Hey Harry ! Pourquoi tu n'avais pas ton Eclair de Feu aujourd'hui ?",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 10,
+    "author": 1,
+    "date": 1493910801,
+    "content": "Malefoy m'a jeté un Petrificus Totalus et me l'a volé :(",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 11,
+    "author": 2,
+    "date": 1493910802,
+    "content": "OMG mais c'est terrible !!",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 12,
+    "author": 1,
+    "date": 1493910803,
+    "content": "Oh tkt Cho est venu me réconforter ;)",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 13,
+    "author": 2,
+    "date": 1493910804,
+    "content": "Passe moi les détails ...",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 14,
+    "author": 1,
+    "date": 1493910805,
+    "content": "On s'est embrassés :D",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 15,
+    "author": 2,
+    "date": 1493910806,
+    "content": "PASSE MOI LES DETAILS !",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 16,
+    "author": 2,
+    "date": 1493910807,
+    "content": "^^",
+    "father": 2,
+    "children": []
+  },
+  {
+    "id": 17,
+    "author": 1,
+    "date": 1493910800,
+    "content": "Tu en es où dans le devoir de Rogue sur les Loups Garous en DCLFDM ?",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 18,
+    "author": 1,
+    "date": 1493910801,
+    "content": "Euh ...",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 19,
+    "author": 1,
+    "date": 1493910802,
+    "content": "J'avais Quidditch ...",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 19,
+    "author": 1,
+    "date": 1493910803,
+    "content": "Toi ?",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 20,
+    "author": 3,
+    "date": 1493910804,
+    "content": "J'ai cassé ma plume à mon 16e parchemin. J'irai en racheter une demain.",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 21,
+    "author": 1,
+    "date": 1493910805,
+    "content": "16 ???",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 22,
+    "author": 3,
+    "date": 1493910806,
+    "content": "Ne me dis pas que tu n'as pas commencé ?!",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 23,
+    "author": 1,
+    "date": 1493910807,
+    "content": "Tu pourras m'aider ?",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 24,
+    "author": 1,
+    "date": 1493910808,
+    "content": "STP :D",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 25,
+    "author": 3,
+    "date": 1493910809,
+    "content": "Si \"t'aider\" veut dire \"l'écrire à ta place\" c'est non.",
+    "father": 3,
+    "children": []
+  },
+  {
+    "id": 26,
+    "author": 1,
+    "date": 1493910810,
+    "content": "Bien, je suppose que je vais devoir apprendre à vivre sans dormir...",
+    "father": 3,
+    "children": []
+  }
+]

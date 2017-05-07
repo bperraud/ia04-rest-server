@@ -1,35 +1,37 @@
-{
-  "id": 1,
-  "sharedin": 1,
-  "date": 1493910799,
-  "binaries": "",
-  "path": "roguelol.png"
-},
-{
-  "id": 2,
-  "sharedin": 1,
-  "date": 1493910799,
-  "binaries": "",
-  "path": "ombragemdr.png"
-},
-{
-  "id": 3,
-  "sharedin": 2,
-  "date": 1493910799,
-  "binaries": "",
-  "path": "quidditch.png"
-},
-{
-  "id": 4,
-  "sharedin": 3,
-  "date": 1493910799,
-  "binaries": "",
-  "path": "owl.png"
-},
-{
-  "id": 5,
-  "sharedin": 3,
-  "date": 1493910799,
-  "binaries": "",
-  "path": "books.png"
-}
+[
+  {
+    "id": 1,
+    "sharedin": 1,
+    "date": 1493910799,
+    "binaries": "",
+    "path": "roguelol.png"
+  },
+  {
+    "id": 2,
+    "sharedin": 1,
+    "date": 1493910799,
+    "binaries": "",
+    "path": "ombragemdr.png"
+  },
+  {
+    "id": 3,
+    "sharedin": 2,
+    "date": 1493910799,
+    "binaries": "",
+    "path": "quidditch.png"
+  },
+  {
+    "id": 4,
+    "sharedin": 3,
+    "date": 1493910799,
+    "binaries": "",
+    "path": "owl.png"
+  },
+  {
+    "id": 5,
+    "sharedin": 3,
+    "date": 1493910799,
+    "binaries": "",
+    "path": "books.png"
+  }
+]
